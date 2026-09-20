@@ -2,6 +2,6 @@
 
 int main()
 {
-  std::cout << "Hi, top-it!";
+  std::cout << "Greetings, top-it!";
   std::cout <<"\n";
 }
